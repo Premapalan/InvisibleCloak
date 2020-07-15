@@ -22,7 +22,7 @@
 
 ## Usage
 
-python3 drowsiness_detector.py
+python3 invisible_cloak.py
 
 ## Current work
 
